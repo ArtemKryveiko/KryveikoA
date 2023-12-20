@@ -15,7 +15,6 @@
 
 [Посилання](http://www.example.com)
 
-![Опис зображення](http://www.example.com/image.jpg)
 
 Зразок коду: `код`
 
