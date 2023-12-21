@@ -29,7 +29,7 @@
 | [Лабораторна робота 2, Основи Python](2_lab/README.md)            | :heavy_check_mark: |
 | [Лабораторна робота 3, Основи ООП](3_lab/README.md)               | :heavy_check_mark: |
 | [Лабораторна робота 4, Віртуальні середовища](4_lab/README.md)    | :heavy_check_mark: |
-| [Лабораторна робота 5](https://bobasb.github.io/2023_tk41_oop/)   | :heavy_check_mark: |
+| [Лабораторна робота 5](https://artemkryveiko.github.io/KryveikoA/)   | :heavy_check_mark: |
 
 
 ---
